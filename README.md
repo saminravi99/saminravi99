@@ -5,8 +5,8 @@
 - 🔭 Moderator at <a href="https://www.programming-hero.com/">Programming Hero</a>
 - 🌱 I’m currently learning Full Stack Web Development
 - ⚡ I love learning new technologies 
-- 📫 Email saidurhere@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-saidur&label=Profile%20views&color=E4405F&style=flat" alt="programmer-saidur" /> </p>
+- 📫 Email saminisrar1@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saminravi99&label=Profile%20views&color=E4405F&style=flat" alt="saminravi99" /> </p>
 
 ## Connect with Me
 
