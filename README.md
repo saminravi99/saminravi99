@@ -1,9 +1,8 @@
 <!-- Welcome Message-->
 <h1>Hey! I'm Samin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-- 💻 Jr. Web Developer Intern at Softwid Inc.
-- 🔭 Moderator at <a href="https://www.programming-hero.com/">Programming Hero</a>
-- 🌱 I’m currently learning Full Stack Web Development
+- 💻 Jr. MERN Stack Web Developer
+- 🌱 I’m currently learning Full Stack Web Development at Programming Hero
 - ⚡ I love learning new technologies 
 - 📫 Email saminisrar1@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saminravi99&label=Profile%20views&color=E4405F&style=flat" alt="saminravi99" /> </p>
@@ -12,10 +11,10 @@
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100061725663437)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmer-saidur)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidur-rahman-6986b2201/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/761197542188777514)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidurhere@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saminravi99)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samin-israr-ravi-b53a52197/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Btm8bMvFFTMyPHPiNABuvYg%3D%3D)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/979749620936749077)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saminisrar1@gmail.com)
 
 
 ## 💻 Languages and Tools:
