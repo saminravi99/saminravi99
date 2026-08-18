@@ -1,84 +1,186 @@
-<!-- Welcome Message-->
-<h1>Hey! I'm Samin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<div align="center">
 
-- 💻 Jr. MERN Stack Web Developer
-- ⚡ I love learning new technologies 
-- 📫 Email saminisrar1@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saminravi99&label=Profile%20views&color=E4405F&style=flat" alt="saminravi99" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Samin%20Israr%20Ravi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%26%20TypeScript%20%7C%20AI%2FRAG%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 
-## Connect with Me
+<a href="https://find-saminravi99.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+backend+systems+with+Node.js+%26+TypeScript;Shipping+RAG+pipelines+%26+LLM-powered+products;5%2B+years+turning+ideas+into+production+SaaS;Open-source+tinkerer+%7C+npm+package+author&font=Fira+Code&center=true&width=640&height=45&color=64FFDA&vCenter=true&size=22&pause=1200&duration=3200" alt="Typing SVG" />
+</a>
 
+<br/>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khan.kabir.754703/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saminravi99)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samin-israr-ravi-b53a52197/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Btm8bMvFFTMyPHPiNABuvYg%3D%3D)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/979749620936749077)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saminisrar1@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=saminravi99&label=Profile%20Views&color=64ffda&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/saminravi99?label=Followers&style=for-the-badge&color=64ffda&logoColor=white" alt="followers"/>
+<a href="https://find-saminravi99.vercel.app"><img src="https://img.shields.io/badge/Portfolio-live-64ffda?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a192f" alt="portfolio"/></a>
 
+</div>
 
-## 💻 Languages and Tools:
+<br/>
 
+## 👋 About Me
+
+```ts
+const samin: DeveloperProfile = {
+  role: "Full Stack Developer",
+  focus: ["Node.js", "TypeScript", "System Design", "AI / RAG Pipelines"],
+  currently: "Building AI-powered SaaS & backend systems @ Programming Hero, Dhaka",
+  experience: "5+ years shipping production SaaS, AI, and ERP-style systems end to end",
+  currentlyLearning: ["Agentic workflows", "Vector search at scale", "Edge runtimes"],
+  funFact: "Published an open-source HTTP client (nexios-http) and a Chrome extension for digital focus",
+};
+```
+
+- 🚀 Leading design & development of full stack systems in **Node.js, NestJS, Next.js, PostgreSQL, MongoDB, Redis & Docker**
+- 🧠 Deep into **AI-powered applications** — RAG pipelines, LLM routing (OpenRouter/OpenAI), vector search & embeddings
+- 🛠️ Own technical decisions end-to-end: architecture, API design, caching, auth, deployment & CI/CD
+- 📦 Author of [**nexios-http**](https://www.npmjs.com/package/nexios-http) — a lightweight Axios-inspired HTTP client on npm
+- 🌐 Portfolio & case studies live at **[find-saminravi99.vercel.app](https://find-saminravi99.vercel.app)**
+- 📫 Reach me at **saminisrar1@gmail.com**
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages & Core**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Backend**
 
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**AI / LLM**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/RAG_Pipelines-6E56CF?style=for-the-badge&logo=databricks&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-FF6F61?style=for-the-badge&logo=pinecone&logoColor=white)
+
+**Database & Infra**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
 
+<br/>
 
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-ffef00?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## 🚀 Featured Projects
 
+<div align="center">
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🌱 [Growth Studio](https://github.com/saminravi99/Growth-Studio-AI-Content-Recommendation-Platform)
+**AI Content & Trend Intelligence Platform**
 
+Monitors HackerNews, Dev.to & GitHub trends and generates a full week of brand-voiced content for Facebook, YouTube & LinkedIn — with a 4-layer ingestion pipeline that keeps LLM cost near-zero at scale.
 
+`Node.js` `TypeScript` `MongoDB Atlas Vector Search` `Redis` `React 19`
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=flat-square&logo=vercel&logoColor=black)](https://growth-studio-sepia.vercel.app/)
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saminravi99/Growth-Studio-AI-Content-Recommendation-Platform)
 
-<!--![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)-->
+</td>
+<td width="50%" valign="top">
 
-<!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+### 📚 [EduNext](https://github.com/saminravi99/AI-Education)
+**AI-Native Learning Platform**
 
+Turns passive video lectures into interactive, RAG-grounded conversations with in-video checkpoint quizzes and per-student skill-mastery tracking, on a Turborepo hot-path/cold-path architecture.
 
+`Next.js` `PostgreSQL + pgvector` `BullMQ` `Prisma` `OpenAI`
 
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saminravi99/AI-Education)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) -->
+### 📦 [nexios-http](https://www.npmjs.com/package/nexios-http)
+**Lightweight HTTP Client (npm package)**
 
+An Axios-inspired, promise-based HTTP client for Node.js & Next.js with a simplified developer experience — published and maintained on npm.
 
-## My Stats 
+`TypeScript` `Node.js` `Next.js`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saminravi99&hide_border=true&theme=tokyonight)
+[![npm](https://img.shields.io/badge/npm-nexios--http-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/nexios-http)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saminravi99&show_icons=true&hide_border=true&theme=tokyonight)  
+</td>
+<td width="50%" valign="top">
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saminravi99&theme=tokyonight)  
- 
+### 🏛️ University Management System
+**Microservice-based ERP**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saminravi99&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
+Authentication, payment & core-service modules built as independent microservices, designed for scalability across enterprise-level environments.
 
+`Node.js` `Express` `PostgreSQL` `MongoDB` `Redis` `React`
 
+</td>
+</tr>
+</table>
 
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saminravi99&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saminravi99&hide_border=true&theme=tokyonight&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminravi99&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saminravi99&theme=tokyo-night&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=firefox&logoColor=64ffda)](https://find-saminravi99.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saminravi99)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saminisrar1@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer" width="100%"/>
+
+<i>Thanks for stopping by — let's build something great. ✨</i>
+
+</div>
