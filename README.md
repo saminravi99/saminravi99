@@ -3,14 +3,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Samin%20Israr%20Ravi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%26%20TypeScript%20%7C%20AI%2FRAG%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://find-saminravi99.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+backend+systems+with+Node.js+%26+TypeScript;Shipping+RAG+pipelines+%26+LLM-powered+products;5%2B+years+turning+ideas+into+production+SaaS;Open-source+tinkerer+%7C+npm+package+author&font=Fira+Code&center=true&width=640&height=45&color=64FFDA&vCenter=true&size=22&pause=1200&duration=3200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&duration=3200&color=64FFDA&center=true&vCenter=true&width=640&height=45&lines=Building+scalable+backend+systems+with+Node.js+%26+TypeScript;Shipping+RAG+pipelines+%26+LLM-powered+products;5%2B+years+turning+ideas+into+production+SaaS;Open-source+tinkerer+%7C+npm+package+author" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=saminravi99&label=Profile%20Views&color=64ffda&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/saminravi99?label=Followers&style=for-the-badge&color=64ffda&logoColor=white" alt="followers"/>
+<img src="https://img.shields.io/badge/Open_to_Opportunities-64ffda?style=for-the-badge&logo=handshake&logoColor=0a192f&labelColor=0a192f" alt="open to work"/>
 <a href="https://find-saminravi99.vercel.app"><img src="https://img.shields.io/badge/Portfolio-live-64ffda?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a192f" alt="portfolio"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/5%2B_Years-Experience-0a192f?style=flat-square&labelColor=64ffda&color=0a192f" alt="experience"/>
+<img src="https://img.shields.io/badge/Node.js-Backend_Specialist-0a192f?style=flat-square&labelColor=64ffda&color=0a192f" alt="node specialist"/>
+<img src="https://img.shields.io/badge/AI%2FRAG-Systems_Builder-0a192f?style=flat-square&labelColor=64ffda&color=0a192f" alt="ai/rag"/>
+<img src="https://img.shields.io/badge/npm-Package_Author-0a192f?style=flat-square&labelColor=64ffda&color=0a192f" alt="npm author"/>
+<img src="https://img.shields.io/badge/4-Production_Projects-0a192f?style=flat-square&labelColor=64ffda&color=0a192f" alt="production projects"/>
 
 </div>
 
@@ -35,6 +44,36 @@ const samin: DeveloperProfile = {
 - 📦 Author of [**nexios-http**](https://www.npmjs.com/package/nexios-http) — a lightweight Axios-inspired HTTP client on npm
 - 🌐 Portfolio & case studies live at **[find-saminravi99.vercel.app](https://find-saminravi99.vercel.app)**
 - 📫 Reach me at **saminisrar1@gmail.com**
+
+<br/>
+
+## 💡 What I Bring to a Team
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**🏗️ Ownership**
+
+Own architecture, API design, database modeling, auth, caching & deployment end-to-end — not just tickets.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**⚡ Performance-First**
+
+Built ingestion pipelines that gate expensive LLM calls behind cheap filters, keeping AI cost near-zero at scale.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🌍 Cross-Border Experience**
+
+Shipped production code for teams in Bangladesh, the UK, and Canada — remote-first, async-friendly by default.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -67,7 +106,7 @@ const samin: DeveloperProfile = {
 **AI / LLM**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/RAG_Pipelines-6E56CF?style=for-the-badge&logo=databricks&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-6E56CF?style=for-the-badge&logo=databricks&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-FF6F61?style=for-the-badge&logo=pinecone&logoColor=white)
 
 **Database & Infra**
@@ -154,14 +193,21 @@ Authentication, payment & core-service modules built as independent microservice
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saminravi99&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saminravi99&hide_border=true&theme=tokyonight&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saminravi99/saminravi99/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saminravi99/saminravi99/output/snake-light.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/saminravi99/saminravi99/output/snake-dark.svg" width="100%"/>
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminravi99&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=saminravi99&hide_border=true&theme=tokyonight&background=0D1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak" height="165"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saminravi99&theme=tokyo-night&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
 
