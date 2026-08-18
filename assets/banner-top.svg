@@ -1,0 +1,33 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a192f"/>
+      <stop offset="1" stop-color="#0f2543"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.25" r="0.65">
+      <stop offset="0" stop-color="#64ffda" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#64ffda" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#64ffda" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#64ffda" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <rect width="1200" height="220" fill="url(#glow)"/>
+
+  <path d="M0,190 C 200,160 400,210 620,185 C 840,160 1000,200 1200,175 L1200,220 L0,220 Z" fill="url(#wave)"/>
+  <path d="M0,200 C 220,175 420,215 640,195 C 860,175 1020,210 1200,190 L1200,220 L0,220 Z" fill="#64ffda" fill-opacity="0.08"/>
+
+  <text x="80" y="120" font-family="'Segoe UI', Arial, sans-serif" font-size="50" font-weight="700" fill="#e6f1ff">Samin Israr Ravi</text>
+  <text x="80" y="164" font-family="'Fira Code', 'Segoe UI', monospace" font-size="20" fill="#64ffda">Full Stack Developer<tspan fill="#8892b0"> | </tspan>Node.js &amp; TypeScript<tspan fill="#8892b0"> | </tspan>AI/RAG Systems</text>
+
+  <rect x="82" y="176" width="0" height="3" fill="#64ffda">
+    <animate attributeName="width" from="0" to="420" dur="1.4s" fill="freeze" begin="0.2s"/>
+  </rect>
+
+  <rect x="500" y="164" width="10" height="20" fill="#64ffda">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

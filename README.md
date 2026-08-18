@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Samin%20Israr%20Ravi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%26%20TypeScript%20%7C%20AI%2FRAG%20Systems&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://raw.githubusercontent.com/saminravi99/saminravi99/main/assets/banner-top.svg" width="100%" alt="Samin Israr Ravi"/>
 
 <a href="https://find-saminravi99.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&duration=3200&color=64FFDA&center=true&vCenter=true&width=640&height=45&lines=Building+scalable+backend+systems+with+Node.js+%26+TypeScript;Shipping+RAG+pipelines+%26+LLM-powered+products;5%2B+years+turning+ideas+into+production+SaaS;Open-source+tinkerer+%7C+npm+package+author" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&duration=3200&color=64FFDA&center=true&vCenter=true&width=850&height=40&lines=Building+scalable+backend+systems+with+Node.js+%26+TypeScript;Shipping+RAG+pipelines+%26+LLM-powered+products;5%2B+years+turning+ideas+into+production+SaaS;Open-source+tinkerer+%7C+npm+package+author" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -225,7 +225,7 @@ Authentication, payment & core-service modules built as independent microservice
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/saminravi99/saminravi99/main/assets/banner-footer.svg" width="100%" alt=""/>
 
 <i>Thanks for stopping by — let's build something great. ✨</i>
 
