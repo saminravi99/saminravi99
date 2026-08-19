@@ -42,7 +42,7 @@ const samin: DeveloperProfile = {
 - 🧠 Deep into **AI-powered applications** — RAG pipelines, LLM routing (OpenRouter/OpenAI), vector search & embeddings
 - 🛠️ Own technical decisions end-to-end: architecture, API design, caching, auth, deployment & CI/CD
 - 📦 Author of [**nexios-http**](https://www.npmjs.com/package/nexios-http) — a lightweight Axios-inspired HTTP client on npm
-- 🌐 Portfolio & case studies live at **[find-saminravi99.vercel.app](https://find-saminravi99.vercel.app)**
+- 🌐 Portfolio & case studies live at **[https://www.saminravi.com/](https://www.saminravi.com)**
 - 📫 Reach me at **saminisrar1@gmail.com**
 
 <br/>
